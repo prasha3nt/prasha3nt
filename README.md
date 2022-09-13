@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prashant
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on (I don't know yet)
+- 🌱 I’m proficient in C++ and have basic understanding of Python
 - 📫 How to reach me prasha3nt@gmail.com
 
 <!---
