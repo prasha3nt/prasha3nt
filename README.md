@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Prashant
 #### I am passionate about coding
-![I am passionate about coding](https://pbs.twimg.com/profile_banners/1090910550542802944/1681053411/1080x360)
+![I am passionate about coding](https://pbs.twimg.com/profile_banners/1090910550542802944/1681055018/1080x360)
+
+
 
 I am a final year undergraduate student of ECE from the Institute of Radio Physics and Electronics, University of Calcutta.
 
